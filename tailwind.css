@@ -1,0 +1,22 @@
+/* base */
+
+@config 'tailwind.config.js';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind screens;
+
+
+
+h1 {
+  @apply tw-bg-black tw-bg-red-50;
+}
+
+div {
+  @apply tw-group;
+}
+
+span {
+  @apply tw-text-base tw-font-semibold tw-text-gray-900 tw-text-left tw-group;
+}
