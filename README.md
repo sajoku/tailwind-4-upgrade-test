@@ -1,3 +1,7 @@
+**Update:**
+
+This is fixed in Tialwind v4 Beta 3
+
 
 Before
 ``` css
